@@ -19,7 +19,7 @@ Python · Jupyter · NumPy · pandas · Matplotlib · Seaborn · SciPy · SymPy
 ## Highlights
 
 - **Crypto price and volatility analysis:** cleaned XRP/USD daily data with pandas, computed daily returns and annualized volatility, and visualized price and volatility over time.
-- **Truth table generator:** a function that evaluates Boolean expressions (AND, OR, XOR, NOT) for 2 to 3 variables.
+- **Truth table generator:** a function that evaluates Boolean expressions (AND, OR, XOR, NOT) for 2 to 4 variables.
 - **Two's complement arithmetic:** binary subtraction implemented from scratch and verified against Python's result.
 - **Symbolic calculus with SymPy:** derivatives, tangent lines, extrema and inflection points, and a comparison of numerical and symbolic integration.
 
